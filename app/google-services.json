@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357503266309",
+    "project_id": "tafaseel-admin-93edb",
+    "storage_bucket": "tafaseel-admin-93edb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357503266309:android:e5aff161fa939cc24bb66c",
+        "android_client_info": {
+          "package_name": "com.example.tafaseel_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9GGvSMVFuUaSHgKWMyeAacaJ9Vs8P3SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -5,6 +5,8 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.storage.FirebaseStorage;
 
 
+// nadia is the real deal
+
 public class FirebaseServices {
 
     // The one and only instance. It starts as null (nothing created yet).
